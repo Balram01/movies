@@ -1,0 +1,49 @@
+.pinklink{
+    color: wheat;
+    border-radius: 0.5rem;
+    border: 1px solid wheat;
+    display: block;
+    max-width: 140px;
+    margin: 1rem 1rem 1rem 0rem;
+    text-decoration: none;
+    text-align: center;
+    text-align: center;
+}
+
+.ggbb{
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+}
+
+.oo{
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+
+.story{
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+
+.dr{
+    text-decoration: none;
+    text-transform: capitalize;
+    color: wheat;
+}
+
+.writer{
+    text-decoration: none;
+    text-transform: capitalize;
+    color: wheat;
+}
+
+.t{
+    color: white;
+}
+
+.d{
+    color: white;
+}

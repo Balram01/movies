@@ -1,3 +1,4 @@
+
 <style>
   @import url('https://fonts.googleapis.com/css2?family=AR+One+Sans:wght@400;700&family=Roboto:ital,wght@1,400;1,700&display=swap');
 </style>
@@ -13,14 +14,38 @@ body{
 
  }
 
-.link{
+.link1{
    color: var(--first-color);
    border-radius: 0.5rem;
    border: 1px solid var(--first-color);
    display: block;
    max-width: 140px;
    margin: 1rem 1rem 1rem 0rem;
+   text-decoration: none;
+   text-align: center;
+   text-align: center;
 }
+.link1{
+.-align: center;
+    text-align: center;
+   
+    color: var(--first-color);
+    border-radius: 0.5rem;
+    border: 1px solid var(--first-color);
+    display: block;
+    max-width: 140px;
+    margin: 1rem 1rem 1rem 0rem;
+    text-decoration: none;
+    text
+ }
+
+  .link1{
+    
+  }
+    
+
+
+
 
 .footer{
     background-color: var(--first-color) ;
@@ -42,4 +67,15 @@ body{
 .footer li {
     padding-inline-start: 0px;
 }
+
+.footer-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+.github{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 
