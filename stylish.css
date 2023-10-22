@@ -1,7 +1,15 @@
 
 <style>
   @import url('https://fonts.googleapis.com/css2?family=AR+One+Sans:wght@400;700&family=Roboto:ital,wght@1,400;1,700&display=swap');
+
+  box-sizing: border-box;
+
 </style>
+
+[class*="col-"] {
+    width: 100%;
+  }
+  
 
 body{
     font-family: 'AR One Sans', sans-serif;
